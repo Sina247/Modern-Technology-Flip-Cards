@@ -1,4 +1,4 @@
-# 🎴 Modern-Technology-Flip-Cards
+# 🎴 Flip Cards
 
 A modern, interactive, and beautifully designed flip card UI built using **HTML**, **Tailwind CSS** and **JavaScript**. Perfect for showcasing technologies, tools, or team profiles with an engaging flipping effect.
 
